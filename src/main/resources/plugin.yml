@@ -1,0 +1,7 @@
+name: MobHeadsLooting
+version: '${version}'
+main: by.ayoo.mobheadslooting.MobHeadsLooting
+api-version: '26.3'
+description: Lets Looting raise head drops from Jodek's Mob Heads.
+authors: [Ayooby]
+website: https://github.com/lzlrd/MobHeadsLooting
